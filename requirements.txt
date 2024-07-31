@@ -3,3 +3,6 @@ pandas
 requests 
 pydeck
 geopy
+apify_client
+threading
+altair
